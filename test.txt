@@ -1,4 +1,8 @@
 hello levante
 hello worlds
 this is no change in the history in this record 
+<<<<<<< HEAD
 this is really a bad behavior
+=======
+this is really a interesting thing in my life
+>>>>>>> bad
